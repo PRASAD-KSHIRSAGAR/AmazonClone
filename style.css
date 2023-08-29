@@ -136,8 +136,6 @@ span
 }
 
 /**panel**/
-
-
 .panel
 {
     height: 40px;
@@ -146,14 +144,12 @@ span
     color: #fff;
     align-items: center;
     justify-content: space-between;
-
 }
 
 .panel-ops p
 {
     display: inline;
     margin-left: 15px;
-
 }
 
 .panel-ops
@@ -178,7 +174,6 @@ span
     display: flex;
     justify-content: center;
     align-items: flex-end;
-
 }
 
 .hero-msg
@@ -192,14 +187,11 @@ span
     font-size: 0.85rem;
     width: 80%;
     margin-bottom: 25px;
-
 }
 
 .hero-msg a{
     color: #007185;
 }  
-
-
 
 /****/
 .shop-section
@@ -208,8 +200,6 @@ span
     flex-wrap:wrap;
     justify-content: space-evenly;
     background-color:  #e2e7e6;
-
-
 }
 .box
 {
@@ -232,7 +222,6 @@ span
 {
     margin-left: 1rem;
     margin-right: 1rem;
-
 }
 
 footer
@@ -248,7 +237,6 @@ footer
     justify-content: center;
     align-items: center;
     font-size: 0.85rem;
-
 }
 
 .foot-panel2
@@ -258,7 +246,6 @@ footer
     height: 300px;
     display: flex;
     justify-content: space-between;
-
 }
 
 ul 
@@ -283,8 +270,6 @@ ul a
     display: flex;
     justify-content: center;
     align-items: center;
-    
-
 }
 
 .logo
@@ -293,30 +278,21 @@ ul a
     background-size: cover;
     height: 50px;
     width: 100px;
-
 }
 .foot-panel4
 {
     background-color: #0f1111;
     color: white;
-    height: 100px;
-    /*display: flex;
-    justify-content: center;
-    align-items: center;*/
-
+    height: 80px;
+    font-size: 0.7rem;
+    text-align: center;
 }
 .pages
 {
-    font-size: 0.7rem;
-    text-align: center;
     padding-top: 25px;
-
 }
 
 .copy-write
 {
     padding-top: 5px;
-    font-size: 0.7rem;
-    text-align: center;
-
 }
